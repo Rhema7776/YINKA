@@ -1,0 +1,87 @@
+span{
+    color: red;
+}
+table, th, tr, td{
+    border: 2px solid;
+}
+
+table{
+    margin-left: 200px;
+    position: relative;
+    top: 100px;
+}
+p{
+    color: brown;
+}
+body{
+    background-image: url(./images/OIP.jpg);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    
+}
+
+.animate__animated.animate__fadeInLeft{
+    --animate-duration: 2s;
+}
+.para{
+    
+    /* color: blue; */
+    border-style: dotted;
+    padding-left: 12px;
+    /* width: 100px; */
+}
+.peru{
+    border: dashed rebeccapurple;
+    padding-right: 12px;
+}
+
+.fireboy{
+    border:  2px solid;
+    /* margin-right: 200px; */
+}
+
+#buju{
+    border-radius: 15px;
+}
+
+.pgi{
+    background-color: #221f1f;
+    color: rgb(218, 32, 193);
+}
+
+.hajia{
+    background-color: brown;
+    padding-right: 100px;
+    margin-left: 100px;
+}
+.pgh{
+    background-color: #221f1f;
+    color: rgb(218, 168, 32);
+    border: red 2px solid;
+    width: 30%;
+    /* display: inline; */
+    margin-left: 300px;
+    /* float: right; */
+    
+}
+.inline2{
+    background-color: dimgrey;
+    padding-right: 140px;
+    
+}
+
+.firstdiv{
+    background-color: aquamarine;
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-around;
+    /* justify-content: space-evenly; */
+    /* justify-content: space-between; */
+    
+}
+
+.para1{
+    color: rgb(175, 175, 148);
+    background-color: rgb(26, 109, 187);
+}
+
